@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-#Author: Nicholas Graca
-#A script for managing virtualbox VMs
-#Actions you can do:
+#   Author: Nicholas Graca
+#   A simple script to help managing virtualbox VMs
+#   Actions you can do:
 #   Start, Stop, Create, Delete, list settings, list available VMs
 
 import os
